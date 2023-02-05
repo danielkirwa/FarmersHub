@@ -109,7 +109,7 @@ function CoastalCounties() {
 
         }
  function NortheastCounties() {
-    var counties = ["Garissa","Wajir","Mandera",];
+    var counties = ["Garissa","Wajir","Mandera"];
             for (var i = 0; i < counties.length; i++) {
                 var optn = counties[i];
                 var el = document.createElement("option");
